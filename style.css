@@ -32,7 +32,6 @@ a{
     transform: rotate(-90deg);
 }
 .img-box{
-    background: red;
     background-size: cover;
     height: 300px;
     width: 500px;
